@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/selectPark"
+        android:title="Find Parks"
+        android:icon="@drawable/baseline_park_24"
+        android:iconTint="@color/white">
+    </item>
+    <item
+        android:id="@+id/myItinerary"
+        android:title="Create Itinerary"
+        android:icon="@drawable/baseline_view_list_24"
+        android:iconTint="@color/white">
+    </item>
+
+</menu>
